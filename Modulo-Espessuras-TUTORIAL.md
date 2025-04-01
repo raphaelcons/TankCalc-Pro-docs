@@ -1,5 +1,6 @@
 # TankCalc Pro
 ## _Módulo de Cálculo de Espessuras_
+![](https://github.com/raphaelcons/TankCalc-Pro-docs/blob/fb8ad2ab48f4e5ffb1b292e4629e6c5e10f4a10d/tank_icon.ico)
 ---
 Este módulo calcula a espessura de chapas soldadas em tanques de armazenamento atmosférico de hidrocarbonetos, utilizando 
 como referência a norma Petrobras N-270 rev. G e o método do anexo A da API STD 650 ed. 2020.
